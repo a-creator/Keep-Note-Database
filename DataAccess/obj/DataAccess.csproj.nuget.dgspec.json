@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\cgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\Entities.csproj"
+              "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\Entities.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\Entities.csproj": {
+    "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\cgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cgi\\Desktop\\googleKeepAssignment3\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\cgi\\source\\repos\\googleKeepAssignment3\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

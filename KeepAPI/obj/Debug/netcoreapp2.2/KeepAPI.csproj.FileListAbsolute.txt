@@ -33,3 +33,10 @@ C:\Users\cgi\Desktop\googleKeepAssignment3\KeepAPI\obj\Debug\netcoreapp2.2\KeepA
 C:\Users\cgi\Desktop\googleKeepAssignment3\KeepAPI\obj\Debug\netcoreapp2.2\KeepAPI.csproj.CopyComplete
 C:\Users\cgi\Desktop\googleKeepAssignment3\KeepAPI\obj\Debug\netcoreapp2.2\KeepAPI.dll
 C:\Users\cgi\Desktop\googleKeepAssignment3\KeepAPI\obj\Debug\netcoreapp2.2\KeepAPI.pdb
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\cgi\source\repos\googleKeepAssignment3\KeepAPI\obj\Debug\netcoreapp2.2\KeepAPI.csproj.CopyComplete

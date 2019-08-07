@@ -1,24 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using BusinessLayer.Exception;
+﻿using BusinessLayer.Exception;
 using DataAccess;
 using Entities;
+using System.Collections.Generic;
 
 namespace BusinessLayer
 {
-    
-   public class NoteManagement : INotemanagement
+
+    public class NoteManagement : INotemanagement
     {
         private readonly INoteRepositary repositary;
         public NoteManagement(INoteRepositary noteRepositary)
         {
             repositary = noteRepositary;
         }
-            public int CreatNote(Note Note)
+
+        public int CreatNote(Note Note)
         {
             var _Note = repositary.GetNoteById(Note.NoteId);
-            if(_Note == null)
+            if (_Note == null)
             {
                 return repositary.CreatNote(Note);
             }
@@ -26,7 +25,6 @@ namespace BusinessLayer
             {
                 throw new NoteAlreadyExistException($"Note with id {Note.NoteId} already exists");
             }
-            
         }
 
         public List<Note> GetNote()

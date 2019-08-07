@@ -1,12 +1,10 @@
-﻿using System;
+﻿using Entities;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
-using Entities;
 
 namespace DataAccess
 {
-   public class LabelRepositary : ILabelRepositary
+    public class LabelRepositary : ILabelRepositary
     {
         private readonly NoteDbContext context;
         public LabelRepositary(NoteDbContext labelDbContext)

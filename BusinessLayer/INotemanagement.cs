@@ -1,11 +1,9 @@
 ﻿using Entities;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace BusinessLayer
 {
-   public interface INotemanagement
+    public interface INotemanagement
     {
         Note GetNoteById(int NoteId);
         List<Note> GetNote();

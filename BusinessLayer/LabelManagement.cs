@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using DataAccess;
 using Entities;
-using BusinessLayer.Exception;
-using DataAccess;
+using System.Collections.Generic;
 
 namespace BusinessLayer
 {
@@ -17,17 +15,14 @@ namespace BusinessLayer
         {
             return repositary.CreatLabel(label);
         }
-
         public List<Label> GetLabel()
         {
             return repositary.GetLabel();
         }
-
         public int RemoveLabel(int LabelId)
         {
            return repositary.RemoveLabel(LabelId) ;
         }
-
         public int UpdateLabel(Label label)
         {
             return repositary.UpdateLabel(label);
